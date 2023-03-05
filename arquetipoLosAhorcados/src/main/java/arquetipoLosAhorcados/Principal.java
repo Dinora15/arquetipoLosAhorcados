@@ -24,7 +24,7 @@ public class Principal {
 			        arrayPalabras[2] = "libreta";
 			        arrayPalabras[3] = "microfono";
 			        arrayPalabras[4] = "planeta";
-			        arrayPalabras[2] = "geometria";
+			        arrayPalabras[5] = "geometria";
 			        //Se implementa el ciclo do-while, que permite repetir las diferentes acciones del programa
 			        //siempre y cuando sean verdades las sentencias definitorias del mismo
 			        do {
